@@ -7,8 +7,8 @@ import shutil
 import telebot
  
 DRIVE_REMOVABLE = 2
-token = '5378276530:AAG2s5Tj4hQcghQg4-pbVr9gZbbwG07e_8M'
-me = '1480501620'
+token = 'ТУТ ТОКЕН БОТА'
+me = 'ТУТ ВАШ ID'
 bot = telebot.TeleBot(token)
 
 def zip(usb):
